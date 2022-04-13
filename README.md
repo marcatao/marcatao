@@ -20,11 +20,10 @@
  <table border=0>
   <tr>
     <td>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcatao&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+	<img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=marcatao&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </td>
     <td>
-  &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcatao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcatao&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="marcatao" height="192px"/>
     </td>
   </tr>
   </table
